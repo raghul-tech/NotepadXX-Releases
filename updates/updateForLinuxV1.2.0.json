@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.2.0",
-    "download_url": "",
-    "changelog": "NotepadXXV1.2.0"
+    "latest_version": "1.2.1",
+    "download_url": "https://github.com/raghul-tech/NotepadXX/releases/download/v1.2.1/NotepadXXV1.2.1-Installer.Linux.tar.gz",
+    "changelog": "v1.2.1 adds real-time linting, splash screen, Markdown preview, v1.2.0 bug fixed"
 }
